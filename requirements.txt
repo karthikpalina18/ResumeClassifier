@@ -3,3 +3,6 @@ scikit-learn
 joblib
 numpy
 gunicorn
+jinja2
+pandas
+pickel
